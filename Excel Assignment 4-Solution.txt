@@ -1,0 +1,103 @@
+Excel Assignment 4:-
+
+1. To use the ribbon commands, what menu and grouping of commands will you
+   find the Insert and Delete command?
+
+Ans: Use a ribbon interface, the "Insert" and "Delete" commands can typically be found in the "Home" menu or tab. However, 
+     it's important to note that the   specific location may vary slightly depending on the application you are using.
+     
+     a) Insert command is usually grouped together with other related commands for adding content or objects. 
+        This may include options such as inserting   tables, pictures, shapes, headers, footers, or page breaks.
+
+     b) Delete command is often grouped with commands related to removing or deleting content. 
+        This may include options such as deleting cells, rows, columns, paragraphs, or entire pages.
+
+2. If you set a row height or column width to 0 (zero), what happens to the row 
+   and column?
+
+Ans: Typically happens in different scenarios:
+
+     Spreadsheet Applications :-
+     1.Row Height: Setting the row height to 0 will hide the entire row, and it will not be visible on the spreadsheet.
+    
+    2. Word Processing Applications :-
+       Row Height: Most word processing applications do not have a direct row height setting like spreadsheets. 
+
+    3.Column Width:- Similarly,word processing applications do not typically have a column width setting like spreadsheets.
+
+3. Is there a need to change the height and width in a cell? Why?
+
+Ans: Some reasons why adjusting the height and width of cells can be necessary:-
+     
+    1. Content Fit: Changing the height and width allows you to ensure that the content within a cell fits properly.
+
+    2.Visual Formatting: Modifying the height and width of cells helps in creating visually appealing and well-organized documents.
+
+    3. Printing Considerations: When preparing documents for printing, adjusting the cell height and width can help ensure that the content 
+       is properly formatted on paper.
+    
+    4.Table Structure: In applications like spreadsheets or databases, adjusting the height and width of cells helps define the structure of the table.
+
+    5.Customization and Personalization: Changing the height and width of cells gives you the flexibility to customize and personalize your documents. 
+
+4. What is the keyboard shortcut to unhide rows?
+
+Ans: Here are some common keyboard shortcuts for unhiding rows in popular spreadsheet applications:
+
+   1. Microsoft Excel (Windows):
+      Select the hidden rows above and below the hidden range.
+      Press "Shift" + "Ctrl" + "9" to unhide the selected rows.
+
+   2. Google Sheets (Windows/Mac):
+      Select the hidden rows above and below the hidden range.
+      Press "Shift" + "Alt" + "0" (zero) to unhide the selected rows.
+
+5. How to hide rows containing blank cells?
+
+Ans: To hide rows containing blank cells in a spreadsheet application like Microsoft Excel,
+     you can follow these steps:
+  
+    1. Select the range of cells or rows where you want to check for blank cells.
+    2.Go to the "Home" tab in the ribbon.
+    3.In the "Editing" group, click on the "Find & Select" button.
+    4.From the dropdown menu, choose "Go To Special".
+    5.In the "Go To Special" dialog box, select "Blanks" and click "OK".
+    6.This will select all the blank cells within the selected range.
+    7.Right-click on one of the selected cells and choose "Hide" from the context menu.
+    8.The rows containing those blank cells will now be hidden.
+
+6. What are the steps to hide the duplicate values using conditional formatting in
+excel?
+
+Ans: To hide duplicate values using conditional formatting in Microsoft Excel, you can follow these steps:
+
+    1. Select the range of cells where you want to check for duplicate values.
+    2. Go to the "Home" tab in the ribbon.
+    3. In the "Styles" group, click on the "Conditional Formatting" button.
+    4. From the dropdown menu, choose "Highlight Cells Rules" and then select "Duplicate Values".
+    5. In the "Duplicate Values" dialog box, you can choose the formatting options for the duplicate values.
+       By default, it highlights the duplicates with a   light red fill color.
+    6. Instead of the default formatting, click on the dropdown arrow next to the formatting style and choose "Custom Format".
+    7. In the "Custom Format" dialog box, go to the "Font" tab.
+    8. Enable the "Color" checkbox and set the font color to match the background color. 
+       This effectively hides the duplicate values by making them blend with the background.
+    9. Click "OK" to apply the formatting.
+   10. The duplicate values in the selected range will now be hidden, making them appear as if they are not there.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
